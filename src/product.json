@@ -1,0 +1,23 @@
+{
+    "Producto": [    
+        {
+            "titulo": "Cámara ASDETCX",
+            "foto": "imagen1.png",
+            "descripcion": "HDCVI, Hight definition",
+            "precio": "50$"
+        },
+        {
+            "titulo": "DVR",
+            "foto": "imagen2.png",
+            "descripcion": "HDCVI, Hight definition",
+            "precio": "50$"
+        },
+        {
+            "titulo": "Cámara DSHGVFHJU",
+            "foto": "imagen3.png",
+            "descripcion": "HDCVI, Hight definition",
+            "precio": "50$"
+        }
+    ]
+} 
+

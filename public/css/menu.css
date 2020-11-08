@@ -6,7 +6,6 @@ nav{
 }
 nav ul{
     box-shadow: 0px 0px 16px rgb(195, 195, 195);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
     line-height: 60px;
     list-style: none;
     background: white;
@@ -22,9 +21,8 @@ nav ul li{
 }
 nav ul li a{
     text-decoration: none!important;
-    color: black;
-    font-weight: bold;
-    font-size: 15px;
+    color: black!important;;
+    font-size: 18px;
 }
 nav ul li a:hover {
     color: #F71735!important; /*PLATINIUM*/
@@ -64,7 +62,6 @@ nav.black ul {
     background-size: cover; */
 }
 
-
 /* media queries */
 
 @media(max-width: 786px){
@@ -83,13 +80,12 @@ nav.black ul {
         top: 0;
         margin-top: 16px;
     }
-    .menu-icon {
-        display: block;
-    }
     .showing {
         max-height: 400em;
     }
-
+    .menu-icon {
+        display: block;
+    }
 }
 
 
